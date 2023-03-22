@@ -4,4 +4,4 @@ Hay un ISP de acceso, el cual tiene implementado tráfico IPV4, BGP, OSPF, MPLS,
 Por otra parte, creamos también un servicio de VRF-VPN para tener unas tablas de encaminamiento y redes virtuales. La finalidad de implementar esto es hacer creer al usuario (empresas) que tienen conectadas las distintas sucursales entre ellas como si todas estuvieran en el mismo lugar. 
 Para el servicio de PPOE escogimos varios clientes, en el mismo bucle de abonado, con distintos LNS y LAC. 
 
-(https://raw.githubusercontent.com/Carcalmoa/GNS3/main/)
+(https://raw.githubusercontent.com/Carcalmoa/GNS3/main/Topologia.pgn)
